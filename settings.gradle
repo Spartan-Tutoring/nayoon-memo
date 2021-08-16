@@ -1,0 +1,2 @@
+rootProject.name = "MukboDiary"
+include ':app'
