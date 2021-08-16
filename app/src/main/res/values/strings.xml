@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MukboDiary</string>
+    <string name="network_error"><strong>네트워크 연결 끊김</strong>\n연결 상태 확인 후 다시 이용해 주세요🙏</string>
+    <string name="dialog_base_check">확인</string>
+
+    <string name="app_name_kor">먹보의 일기장</string>
+    <string name="bookMarkCnt">총 m개의 즐겨찾기</string>
+    <string name="memoCnt">총 n개의 메모</string>
+    <string name="logout_btn">로그아웃</string>
+
+
+</resources>
